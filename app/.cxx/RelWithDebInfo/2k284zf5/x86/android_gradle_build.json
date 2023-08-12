@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\.cxx\\RelWithDebInfo\\2k284zf5\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\.cxx\\RelWithDebInfo\\2k284zf5\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "navierstokes-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\.cxx\\RelWithDebInfo\\2k284zf5\\x86",
+        "navierstokes"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "navierstokes",
+      "output": "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\2k284zf5\\obj\\x86\\libnavierstokes.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\MasseyCourse\\159.888 Project\\FluidSimulation-main\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Hugua\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\MasseyCourse\\159.888 Project\\FluidSimulation-main\\app\\.cxx\\Debug\\4a26c422\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Hugua\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\MasseyCourse\\159.888 Project\\FluidSimulation-main\\app\\.cxx\\Debug\\4a26c422\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "navierstokes-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Hugua\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\MasseyCourse\\159.888 Project\\FluidSimulation-main\\app\\.cxx\\Debug\\4a26c422\\x86",
+        "navierstokes"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "navierstokes",
+      "output": "D:\\MasseyCourse\\159.888 Project\\FluidSimulation-main\\app\\build\\intermediates\\cxx\\Debug\\4a26c422\\obj\\x86\\libnavierstokes.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,1 @@
+ninja: Entering directory `D:\MasseyCourse\159888-Project\FluidSimulation-main\app\.cxx\Debug\271x736o\armeabi-v7a'

@@ -1,0 +1,1 @@
+ninja: error: 'D:/MasseyCourse/159.888 Project/FluidSimulation-main/app/src/main/jni/x86/libnavierstokes_halide.a', needed by 'D:/MasseyCourse/159.888 Project/FluidSimulation-main/app/build/intermediates/cxx/Debug/4a26c422/obj/x86/libnavierstokes.so', missing and no known rule to make it

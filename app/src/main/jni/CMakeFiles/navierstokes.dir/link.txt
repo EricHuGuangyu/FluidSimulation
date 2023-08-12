@@ -1,0 +1,3 @@
+"D:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\navierstokes.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\navierstokes.dir/objects.a @CMakeFiles\navierstokes.dir\objects1.rsp
+D:\mingw64\bin\c++.exe -shared -o libnavierstokes.dll -Wl,--out-implib,libnavierstokes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\navierstokes.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\navierstokes.dir\linkLibs.rsp

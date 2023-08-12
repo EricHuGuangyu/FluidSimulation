@@ -1,0 +1,7 @@
+Executable : D:\Android\Sdk\cmake\3.22.1\bin\ninja.exe
+arguments : 
+-C
+D:\MasseyCourse\159888-Project\FluidSimulation-main\app\.cxx\Debug\5f1n5w5b\armeabi-v7a
+navierstokes
+jvmArgs : 
+

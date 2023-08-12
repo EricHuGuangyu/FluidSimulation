@@ -1,0 +1,53 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\.cxx\\Debug\\271x736o\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\.cxx\\Debug\\271x736o\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "navierstokes_gl-Debug-x86_64": {
+      "buildCommandComponents": [
+        "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\.cxx\\Debug\\271x736o\\x86_64",
+        "navierstokes_gl"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "navierstokes_gl",
+      "output": "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\build\\intermediates\\cxx\\Debug\\271x736o\\obj\\x86_64\\libnavierstokes_gl.so",
+      "runtimeFiles": []
+    },
+    "navierstokes-Debug-x86_64": {
+      "buildCommandComponents": [
+        "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\.cxx\\Debug\\271x736o\\x86_64",
+        "navierstokes"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "navierstokes",
+      "output": "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\build\\intermediates\\cxx\\Debug\\271x736o\\obj\\x86_64\\libnavierstokes.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

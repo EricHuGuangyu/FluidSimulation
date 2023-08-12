@@ -1,0 +1,19 @@
+[
+{
+  "directory": "D:/MasseyCourse/159888-Project/FluidSimulation-main/app/.cxx/Debug/271x736o/arm64-v8a",
+  "command": "D:\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=D:/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnavierstokes_cl_EXPORTS -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -O3 -ftree-vectorize -ffast-math -fPIC   -o CMakeFiles\\navierstokes_cl.dir\\jnisimulation.cpp.o -c D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\src\\main\\jni\\jnisimulation.cpp",
+  "file": "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\src\\main\\jni\\jnisimulation.cpp"
+},
+
+{
+  "directory": "D:/MasseyCourse/159888-Project/FluidSimulation-main/app/.cxx/Debug/271x736o/arm64-v8a",
+  "command": "D:\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=D:/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnavierstokes_EXPORTS -I/Halide/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -O3 -ftree-vectorize -ffast-math -fPIC   -o CMakeFiles\\navierstokes.dir\\jnisimulation.cpp.o -c D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\src\\main\\jni\\jnisimulation.cpp",
+  "file": "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\src\\main\\jni\\jnisimulation.cpp"
+},
+
+{
+  "directory": "D:/MasseyCourse/159888-Project/FluidSimulation-main/app/.cxx/Debug/271x736o/arm64-v8a",
+  "command": "D:\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=D:/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnavierstokes_gl_EXPORTS -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -O3 -ftree-vectorize -ffast-math -fPIC   -o CMakeFiles\\navierstokes_gl.dir\\jnisimulation.cpp.o -c D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\src\\main\\jni\\jnisimulation.cpp",
+  "file": "D:\\MasseyCourse\\159888-Project\\FluidSimulation-main\\app\\src\\main\\jni\\jnisimulation.cpp"
+}
+]

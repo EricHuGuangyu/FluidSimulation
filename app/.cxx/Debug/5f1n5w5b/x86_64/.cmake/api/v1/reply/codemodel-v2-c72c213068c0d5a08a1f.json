@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "navierstokes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-navierstokes-Debug-a20bce3def61dedeadc2.json",
+					"name" : "navierstokes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "navierstokes_gl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-navierstokes_gl-Debug-578e6761eea0ba1e0ec4.json",
+					"name" : "navierstokes_gl",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MasseyCourse/159888-Project/FluidSimulation-main/app/.cxx/Debug/5f1n5w5b/x86_64",
+		"source" : "D:/MasseyCourse/159888-Project/FluidSimulation-main/app/src/main/jni"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
